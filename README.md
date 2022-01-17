@@ -2,7 +2,8 @@
 
 The App Brewery Complete App Development course project.
 Introduction to Xcode Storyboards and Interface Builder.
--------------------------------------------------------
+
+--------------------------------------------------------
 
 Учебный проект в рамках курса The App Brewery Complete App Development.
 Знакомство с Storyboard и Interface Builder.
